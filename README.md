@@ -14,7 +14,7 @@ If you encounter any issues when installing the environment, please refer to [XT
 
 ### Data
 
-Download [data](https://drive.google.com/file/d/1FRxO0Kd9ysWXHXfjKz6JOBUA9EjubXyt/view?usp=sharing) and unzip it. It includes the original PAWS-X and XNLI dataset as well as the testing set for the *generalized* setting.
+Download [data](https://drive.google.com/file/d/1FFqMCGCewbJwwgVOJJ2d8lIKnIdRSOyn/view?usp=sharing) and unzip it. It includes the original PAWS-X and XNLI dataset as well as the testing set for the *generalized* setting.
 
 Run the following commands to generate the augmented data for randomized smoothing.
 ```
