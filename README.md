@@ -3,6 +3,8 @@
 Code for our EACL-2021 paper ["Improving Zero-Shot Cross-Lingual Transfer Learning via Robust Training"](https://arxiv.org/abs/2104.08645).
 Most of our code is based on [XTREME](https://github.com/google-research/xtreme).
 
+The current codebase only supports `randomized smoothing with data augmentation` because it's the most effective method that has consistent improvements over different tasks in our paper. We will consider adding other methods and baselines in this repository.
+
 
 ### Setup 
 
